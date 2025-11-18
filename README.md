@@ -46,7 +46,7 @@ An end-to-end ML project predicting student progression outcomes using demograph
 
 **Tech Stack:** Python, pandas, NumPy, scikit-learn, TensorFlow, XGBoost, Matplotlib
 
-👉 *(GitHub link will be added after uploading your project repository)*  
+👉 *https://github.com/ponlakshmi-ds/student-dropout-prediction*  
 
 ---
 
