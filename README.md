@@ -49,7 +49,12 @@ An end-to-end ML project predicting student progression outcomes using demograph
 👉 *https://github.com/ponlakshmi-ds/student-dropout-prediction*  
 
 ---
-
+### Mini-Project 1: Email Spam Classification
+👉 *https://github.com/ponlakshmi-ds/neural-network-spam-detector*
+---
+### Mini-Project 2: Titanic Survival Prediction
+👉 **
+---
 ## 📂 Other Work  
 More ML and analytics projects will be added soon, including:  
 - Classification & regression case studies  
