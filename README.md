@@ -50,10 +50,12 @@ An end-to-end ML project predicting student progression outcomes using demograph
 
 ---
 ### Mini-Project 1: Email Spam Classification
+
 👉 *https://github.com/ponlakshmi-ds/neural-network-spam-detector*
 ---
 ### Mini-Project 2: Titanic Survival Prediction
-👉 **
+
+👉 *https://github.com/ponlakshmi-ds/titanic-survival-prediction-NN*
 ---
 ## 📂 Other Work  
 More ML and analytics projects will be added soon, including:  
