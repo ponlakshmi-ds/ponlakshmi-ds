@@ -1,74 +1,58 @@
-# 👋 Hi, I'm Pon Lakshmi  
-### Data Scientist | SQL | Python | Machine Learning | Power BI  
-Norwich, UK  
+**👋 About Me**
+--
 
-Welcome to my GitHub profile! I am a data-focused professional with 9+ years of experience in technology delivery and financial systems, currently transitioning into Data Science. My background in SQL development, data validation, and reporting — combined with recent hands-on ML and analytics projects — enables me to build reliable, insight-driven solutions end-to-end.
+I’m a Data Analyst with 9+ years of experience working in high-volume, data-intensive environments, specialising in SQL-led analytics, reporting optimisation, and performance monitoring within regulated systems.
 
----
+My background began in backend development (VB.NET & SQL Server), where I built and supported database-driven applications. Over time, my focus evolved toward structured analysis, KPI reporting, and translating complex datasets into clear, actionable business insights. 
 
-## 🚀 About Me  
-- 🔍 Passionate about solving real-world problems using data  
-- 🎓 Currently completing the **Cambridge Data Science Career Accelerator**  
-- 🧠 Strong foundation in SQL, Python, and analytical problem-solving  
-- 💡 Interested in Machine Learning, Predictive Modelling, and Data Engineering  
-- 🧪 Experienced in leading delivery, improving data pipelines, and ensuring data quality  
+Alongside strong SQL expertise, I’m expanding my applied analytics capability through hands-on projects in:
 
----
+- Machine learning & predictive modelling
 
-## 🛠️ Technical Skills  
-**Languages & Tools:**  
-- Python (pandas, NumPy, scikit-learn, matplotlib, TensorFlow)  
-- SQL (data extraction, joins, optimisation)  
-- Power BI (DAX, data modelling, dashboards)  
-- Git & GitHub  
-- Excel (Power Query, PivotTables)  
+- NLP & topic modelling
 
-**Machine Learning:**  
-- Classification & Regression Models  
-- XGBoost, Random Forest, Neural Networks  
-- Model Evaluation (AUC, Precision, Recall, F1, Confusion Matrix)  
-- Feature Engineering & Preprocessing  
-- Hyperparameter Tuning  
+- Time-series forecasting
 
----
+- LLM-based text analysis
 
-## 📌 Featured Project  
-### 🎓 **Student Dropout Prediction — Multi-Stage Machine Learning System**  
-An end-to-end ML project predicting student progression outcomes using demographic, attendance, and academic performance data across three stages.
+- Model evaluation & interpretability
 
-**What I built:**  
-- A full preprocessing pipeline (encoding, feature engineering, missing value strategy, scaling)  
-- Multi-model experimentation using **XGBoost** and **Neural Networks**  
-- Hyperparameter tuning using GridSearchCV and KerasTuner  
-- Stage-wise comparison (early-stage vs mid-stage vs late-stage prediction)  
-- Achieved **97%+ accuracy and AUC ~0.99** in Stage 3  
-- Loss curves, feature importance, and evaluation summaries  
+My work focuses on practical, explainable solutions that improve decision-making and operational performance.
 
-**Tech Stack:** Python, pandas, NumPy, scikit-learn, TensorFlow, XGBoost, Matplotlib
 
-👉 *https://github.com/ponlakshmi-ds/student-dropout-prediction*  
+**🛠 Technical Skills**
 
----
-### Mini-Project 1: Email Spam Classification
+Data & Analytics
 
-👉 *https://github.com/ponlakshmi-ds/neural-network-spam-detector*
----
-### Mini-Project 2: Titanic Survival Prediction
+- Advanced SQL (joins, CTEs, window functions, optimisation)
 
-👉 *https://github.com/ponlakshmi-ds/titanic-survival-prediction-NN*
----
-## 📂 Other Work  
-More ML and analytics projects will be added soon, including:  
-- Classification & regression case studies  
-- SQL-based data analysis  
-- End-to-end notebooks with clear documentation  
+- Python (pandas, NumPy, Scikit-learn)
 
----
+- Exploratory Data Analysis
 
-## 📫 Connect With Me  
-- **LinkedIn:** www.linkedin.com/in/ponlakshmi  
-- **Email:** ponlakshmi09@gmail.com  
+- Forecasting & Segmentation
 
----
+- Data Cleaning & Validation
 
-### 🌱 *“Data has a story — I love turning it into something meaningful.”*  
+Tools
+
+- SQL Server
+
+- Power BI
+
+- Excel
+
+- Jupyter Notebook
+
+- Git
+
+
+**📊 Featured Projects**
+
+🎯 Student Dropout Prediction (Capstone)
+
+End-to-end predictive modelling project focused on identifying at-risk students using structured datasets. Emphasis on feature engineering, model evaluation (precision, recall, ROC-AUC), and interpretability.
+
+https://github.com/ponlakshmi-ds/student-dropout-prediction
+
+Additional NLP and time-series projects coming soon.
